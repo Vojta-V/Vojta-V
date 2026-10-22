@@ -13,3 +13,7 @@ Trasy si hledám na [Mapy.com](https://mapy.com/).
 - Krkonoše
 - Šumava
 - Jeseníky
+
+## Co si beru s sebou
+
+![Jednoduchý obrázek batohu](fotky/batoh.svg)
