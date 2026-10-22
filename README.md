@@ -17,3 +17,5 @@ Trasy si hledám na [Mapy.com](https://mapy.com/).
 ## Co si beru s sebou
 
 ![Jednoduchý obrázek batohu](fotky/batoh.svg)
+
+Něco o turistice si čtu na [Wikipedii](https://cs.wikipedia.org/wiki/Turistika).
