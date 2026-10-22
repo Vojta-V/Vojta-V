@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
+  <rect width="600" height="300" fill="lightgreen"/>
+  <path d="M230 100 Q300 30 370 100" fill="none" stroke="black" stroke-width="12"/>
+  <rect x="190" y="85" width="220" height="180" rx="40" fill="orange" stroke="black" stroke-width="8"/>
+  <rect x="225" y="155" width="150" height="80" rx="20" fill="brown"/>
+  <text x="20" y="40" font-family="Arial" font-size="30">Můj batoh</text>
+</svg>
