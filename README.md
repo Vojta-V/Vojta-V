@@ -19,3 +19,7 @@ Trasy si hledám na [Mapy.com](https://mapy.com/).
 ![Jednoduchý obrázek batohu](fotky/batoh.svg)
 
 Něco o turistice si čtu na [Wikipedii](https://cs.wikipedia.org/wiki/Turistika).
+
+## Shrnutí
+
+> Cestování mě baví, protože pokaždé poznám něco nového.
